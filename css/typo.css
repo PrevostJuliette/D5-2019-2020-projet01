@@ -1,0 +1,222 @@
+header {
+  color: #2700FF;
+  font-size: 3em;
+  text-align: left;
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ #fff url('images/book.jpg') top right no-repeat;
+ background-color: #F0ECEB;
+}
+
+html {
+  max-width: 100%;
+  max-height: auto;
+}
+body {
+  background-color: #F0ECEB;
+
+}
+
+.menu {
+  font-family: 'Abril Fatface', sans-serif;
+    line-height: 1.9;
+    letter-spacing: 2.2;
+    color: #2700FF;
+}
+header h1 {
+  max-width: 840px;
+  font-size: 1em;
+}
+header h1::after {
+  content : " ";
+  display: block;
+  width : 60%;
+  height: 0.15em;
+  background:#2700FF;
+  margin-top: 1em;
+}
+
+div.bordure {
+border-bottom:1.7px solid #233567;
+margin-left: 15em;
+margin-right: 50em;
+}
+
+.section-image1 {
+margin-top: 2em;
+  margin-bottom: 2em;
+background-color: #F0ECEB;
+}
+
+.section-image2 {
+margin-top: 2em;
+  margin-bottom: 2em;
+background-color: #F0ECEB;
+}
+
+.section-image3 {
+margin-top: 2em;
+  margin-bottom: 2em;
+  background-color: #F0ECEB;
+}
+
+.section-image4 {
+margin-top: 2em;
+  margin-bottom: 2em;
+  background-color: #F0ECEB;
+}
+
+.section-image5 {
+margin-top: 2em;
+  margin-bottom: 2em;
+  background-color: #F0ECEB;
+}
+
+.s {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+
+}
+
+.b {
+
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+  font-style: italic;
+}
+
+.c {
+font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.d {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.e {
+font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.e2 {
+  font-family: 'Abril Fatface', sans-serif;
+  font-size: 2em;
+  line-height: 1.5;
+  letter-spacing: 2.2;
+}
+
+.f {
+    font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.g {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.g2 {
+  font-family: 'Abril Fatface', sans-serif;
+    font-size: 2em;
+    font-style: bold;
+    line-height: 1.5;
+    letter-spacing: 2.2;
+}
+
+.g3 {
+  font-family: 'Abril Fatface', sans-serif;
+    font-size: 2em;
+    font-style: bold;
+    line-height: 1.5;
+    letter-spacing: 2.2;
+}
+
+.h {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.15;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+
+}
+
+.h2 {
+  font-family: 'Abril Fatface', sans-serif;
+   font-weight: 400;
+  font-size: 2em;
+  line-height: 1.5;
+  letter-spacing: 2.2;
+}
+
+.i {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.15;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.j {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.15;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.k {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.l {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.m {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.n {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.o {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.p {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.q {
+  font-family: 'Exo', sans-serif;
+  line-height: 1.9;
+  letter-spacing: 2.2;
+}
+
+.right {
+  font-family: 'Exo', sans-serif;
+line-height: 1.5;
+letter-spacing: 2.2;
+font-style: oblique;
+}
